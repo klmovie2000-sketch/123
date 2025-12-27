@@ -1,0 +1,7 @@
+{
+  "name": "CineBoost: AI Video Enhancer",
+  "description": "Professional AI-powered video enhancement and cinematic filtering. Upscale your videos and apply world-class cinematic styles using Gemini Veo technology before sharing directly to social media.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
